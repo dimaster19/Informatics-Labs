@@ -1,0 +1,4 @@
+D:\Work2020-master\INF\Lab1\LB1\LB1\obj\Release\LB1.Add_event_window.resources
+D:\Work2020-master\INF\Lab1\LB1\LB1\obj\Release\LB1.Login_window.resources
+D:\Work2020-master\INF\Lab1\LB1\LB1\obj\Release\LB1.Organizer_window.resources
+D:\Work2020-master\INF\Lab1\LB1\LB1\obj\Release\LB1.csproj.GenerateResource.cache

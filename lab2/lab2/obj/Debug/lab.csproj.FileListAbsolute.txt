@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\IKTLAB1\lab2_working\lab2\bin\Debug\3 лаба.exe.config
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\IKTLAB1\lab2_working\lab2\bin\Debug\3 лаба.exe
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\IKTLAB1\lab2_working\lab2\bin\Debug\3 лаба.pdb
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\IKTLAB1\lab2_working\lab2\obj\Debug\lab.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\IKTLAB1\lab2_working\lab2\obj\Debug\_3_лаба.DirectoryBrowser.resources
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\IKTLAB1\lab2_working\lab2\obj\Debug\_3_лаба.Properties.Resources.resources
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\IKTLAB1\lab2_working\lab2\obj\Debug\lab.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\IKTLAB1\lab2_working\lab2\obj\Debug\lab.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\IKTLAB1\lab2_working\lab2\obj\Debug\3 лаба.exe
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\IKTLAB1\lab2_working\lab2\obj\Debug\3 лаба.pdb

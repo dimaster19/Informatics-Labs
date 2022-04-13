@@ -1,0 +1,22 @@
+D:\Work2020-master\INF\Lab1\LB1\LB1\obj\Debug\LB1.csproj.AssemblyReference.cache
+D:\Work2020-master\INF\Lab1\LB1\LB1\obj\Debug\LB1.Add_event_window.resources
+D:\Work2020-master\INF\Lab1\LB1\LB1\obj\Debug\LB1.Login_window.resources
+D:\Work2020-master\INF\Lab1\LB1\LB1\obj\Debug\LB1.Organizer_window.resources
+D:\Work2020-master\INF\Lab1\LB1\LB1\obj\Debug\LB1.csproj.GenerateResource.cache
+D:\Work2020-master\INF\Lab1\LB1\LB1\bin\Debug\LB1.exe
+D:\Work2020-master\INF\Lab1\LB1\LB1\bin\Debug\LB1.pdb
+D:\Work2020-master\INF\Lab1\LB1\LB1\obj\Debug\LB1.Properties.Resources.resources
+D:\Work2020-master\INF\Lab1\LB1\LB1\obj\Debug\LB1.csproj.CoreCompileInputs.cache
+D:\Work2020-master\INF\Lab1\LB1\LB1\obj\Debug\LB1.exe
+D:\Work2020-master\INF\Lab1\LB1\LB1\obj\Debug\LB1.pdb
+C:\Users\admin\Desktop\IKTLAB1\Lab1 — копия\LB1\LB1\bin\Debug\LB1.exe
+C:\Users\admin\Desktop\IKTLAB1\Lab1 — копия\LB1\LB1\bin\Debug\LB1.pdb
+C:\Users\admin\Desktop\IKTLAB1\Lab1 — копия\LB1\LB1\obj\Debug\LB1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\IKTLAB1\Lab1 — копия\LB1\LB1\obj\Debug\LB1.Add_event_window.resources
+C:\Users\admin\Desktop\IKTLAB1\Lab1 — копия\LB1\LB1\obj\Debug\LB1.Login_window.resources
+C:\Users\admin\Desktop\IKTLAB1\Lab1 — копия\LB1\LB1\obj\Debug\LB1.Organizer_window.resources
+C:\Users\admin\Desktop\IKTLAB1\Lab1 — копия\LB1\LB1\obj\Debug\LB1.Properties.Resources.resources
+C:\Users\admin\Desktop\IKTLAB1\Lab1 — копия\LB1\LB1\obj\Debug\LB1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\IKTLAB1\Lab1 — копия\LB1\LB1\obj\Debug\LB1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\IKTLAB1\Lab1 — копия\LB1\LB1\obj\Debug\LB1.exe
+C:\Users\admin\Desktop\IKTLAB1\Lab1 — копия\LB1\LB1\obj\Debug\LB1.pdb
