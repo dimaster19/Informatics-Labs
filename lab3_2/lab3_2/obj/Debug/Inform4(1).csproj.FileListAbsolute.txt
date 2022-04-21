@@ -1,0 +1,10 @@
+D:\Inform4-1--master\Inform4(1)\bin\Debug\Inform4(1).exe.config
+D:\Inform4-1--master\Inform4(1)\bin\Debug\Inform4(1).exe
+D:\Inform4-1--master\Inform4(1)\bin\Debug\Inform4(1).pdb
+D:\Inform4-1--master\Inform4(1)\obj\Debug\Inform4(1).csproj.AssemblyReference.cache
+D:\Inform4-1--master\Inform4(1)\obj\Debug\Inform4_1_.Form1.resources
+D:\Inform4-1--master\Inform4(1)\obj\Debug\Inform4_1_.Properties.Resources.resources
+D:\Inform4-1--master\Inform4(1)\obj\Debug\Inform4(1).csproj.GenerateResource.cache
+D:\Inform4-1--master\Inform4(1)\obj\Debug\Inform4(1).csproj.CoreCompileInputs.cache
+D:\Inform4-1--master\Inform4(1)\obj\Debug\Inform4(1).exe
+D:\Inform4-1--master\Inform4(1)\obj\Debug\Inform4(1).pdb
