@@ -1,0 +1,22 @@
+C:\Users\admin\source\repos\Informatics\Copywriter\Copywriter\bin\Debug\Сopywriter.exe.config
+C:\Users\admin\source\repos\Informatics\Copywriter\Copywriter\bin\Debug\Сopywriter.exe
+C:\Users\admin\source\repos\Informatics\Copywriter\Copywriter\bin\Debug\Сopywriter.pdb
+C:\Users\admin\source\repos\Informatics\Copywriter\Copywriter\obj\Debug\lab3_1.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Informatics\Copywriter\Copywriter\obj\Debug\lab3_1.CopyrightTextForm.resources
+C:\Users\admin\source\repos\Informatics\Copywriter\Copywriter\obj\Debug\lab3_1.CopywriterMainform.resources
+C:\Users\admin\source\repos\Informatics\Copywriter\Copywriter\obj\Debug\Сopywriter.Properties.Resources.resources
+C:\Users\admin\source\repos\Informatics\Copywriter\Copywriter\obj\Debug\lab3_1.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Informatics\Copywriter\Copywriter\obj\Debug\lab3_1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Informatics\Copywriter\Copywriter\obj\Debug\Сopywriter.exe
+C:\Users\admin\source\repos\Informatics\Copywriter\Copywriter\obj\Debug\Сopywriter.pdb
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\lab3_1\lab3_1\bin\Debug\Сopywriter.exe.config
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\lab3_1\lab3_1\bin\Debug\Сopywriter.exe
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\lab3_1\lab3_1\bin\Debug\Сopywriter.pdb
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\lab3_1\lab3_1\obj\Debug\lab3_1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\lab3_1\lab3_1\obj\Debug\lab3_1.CopyrightTextForm.resources
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\lab3_1\lab3_1\obj\Debug\lab3_1.CopywriterMainform.resources
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\lab3_1\lab3_1\obj\Debug\Сopywriter.Properties.Resources.resources
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\lab3_1\lab3_1\obj\Debug\lab3_1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\lab3_1\lab3_1\obj\Debug\lab3_1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\lab3_1\lab3_1\obj\Debug\Сopywriter.exe
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\lab3_1\lab3_1\obj\Debug\Сopywriter.pdb
