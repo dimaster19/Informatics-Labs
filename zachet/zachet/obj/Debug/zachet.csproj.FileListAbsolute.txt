@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\zachet\zachet\bin\Debug\zachet.exe.config
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\zachet\zachet\bin\Debug\zachet.exe
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\zachet\zachet\bin\Debug\zachet.pdb
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\zachet\zachet\obj\Debug\zachet.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\zachet\zachet\obj\Debug\zachet.Form1.resources
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\zachet\zachet\obj\Debug\zachet.Properties.Resources.resources
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\zachet\zachet\obj\Debug\zachet.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\zachet\zachet\obj\Debug\zachet.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\zachet\zachet\obj\Debug\zachet.exe
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\zachet\zachet\obj\Debug\zachet.pdb
+C:\Users\admin\Desktop\ФИЗТЕХ\ДИМОН_ДИСТАНЦИОНКА\Informatics Labs\zachet\zachet\obj\Debug\zachet.Form2.resources
